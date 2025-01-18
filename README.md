@@ -1,2 +1,2 @@
 # Data-Analytics
-![coffee]coffee_landscape.jpeg)
+![coffee] coffee_landscape.jpeg)
